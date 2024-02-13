@@ -5,7 +5,8 @@ En este repositorio encontraremos la web del módulo Entronos de Desarrollo. Los
 * Testing JUNIT
 * UML
 
-!(https://fpiespablopicasso.es/wp-content/uploads/2022/03/LOGOTIPO-IES-PABLO-PICASSO-texto-morado.png)
+!(https://github.com/NestorHL/Prueba/assets/148748908/1cd28e23-0826-4665-91de-98c943f05eb3)
+
 
 En la página web del [IES Pablo Picasso](https://iespablopicasso.info/web20/) podreis encontrar más información.
 Si quieres contribuir al desarrollo de la web, puedes clonar el repositorio con el comando
