@@ -12,4 +12,5 @@ En este repositorio encontraremos la web del módulo Entronos de Desarrollo. Los
 En la página web del [IES Pablo Picasso](https://iespablopicasso.info/web20/) podreis encontrar más información.
 Si quieres contribuir al desarrollo de la web, puedes clonar el repositorio con el comando
 
+## Contribute
 $ git clone  https://github.com/EnriquePicasso/ExGIT2324.git
