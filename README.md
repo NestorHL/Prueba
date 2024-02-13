@@ -5,7 +5,8 @@ En este repositorio encontraremos la web del módulo Entronos de Desarrollo. Los
 * Testing JUNIT
 * UML
 
-!(https://github.com/NestorHL/Prueba/assets/148748908/1cd28e23-0826-4665-91de-98c943f05eb3)
+![image](https://github.com/NestorHL/Prueba/assets/148748908/4e302b93-8241-4f0d-9a09-d53522c5a584)
+
 
 
 En la página web del [IES Pablo Picasso](https://iespablopicasso.info/web20/) podreis encontrar más información.
